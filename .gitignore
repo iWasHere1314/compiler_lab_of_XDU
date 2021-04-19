@@ -1,3 +1,9 @@
+# configuration directory
+.vscode
+
+# exe directory
+exe
+
 # Prerequisites
 *.d
 
