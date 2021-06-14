@@ -1,0 +1,6 @@
+create database a;
+create table first(a int, b int);
+insert into first values(1,2);
+select a from first;
+update first set a = 2+3;
+delete from first where a = 3;
